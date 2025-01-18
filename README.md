@@ -16,6 +16,11 @@
 - 🤔 I’m looking for help with Cloud infraestructures
 - 💬 Ask me about ORACLE APEX
 
+##
+
+[![Maximiliano stats](https://github-readme-stats.vercel.app/api?username=paesmaximiliano&show_icons=true&theme=dark)](https://github.com/paesmaximiliano/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paesmaximiliano&layout=compact&theme=dark)
+
 ## Developer with 💻
 
 <div dir="auto"><br>
@@ -38,8 +43,6 @@
 <a href="https://www.oracle.com" target="_blank">
   <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Badge">
 </a>
-
-
 
 </div>
 
