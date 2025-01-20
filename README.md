@@ -11,8 +11,8 @@
 
 </div>
 
-- 🔭 I’m currently working on Java / HTML / CSS / JAVASCRIPT / ORACLE APEX / PLSQL
-- 🌱 I’m currently learning Java / PYTHON / CLOUD OCI / 
+- 🔭 I’m currently working on JAVA / HTML / CSS / JAVASCRIPT / ORACLE APEX / PLSQL
+- 🌱 I’m currently learning JAVA / PYTHON / CLOUD OCI / 
 - 🤔 I’m looking for help with Cloud infraestructures
 - 💬 Ask me about ORACLE APEX
 
